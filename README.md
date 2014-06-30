@@ -1,4 +1,4 @@
-wp_unused_images_remover
+WordPress unused images remover
 ========================
 
 Скрипт поможет вам удалить неиспользуемые файлы с вашего сервера и блога на WordPress.

@@ -7,9 +7,9 @@
 ##Использование
 1. Загружаем файл в корень блога
 2. Запускаем в консоле
-	< php wp_unused.php >
+	*php wp_unused.php*
 	или через браузер
-	< http://domain.com/wp_unused.php >
+	*http://domain.com/wp_unused.php*
 
 3. Радуемся удаленным файлам
 4. Удаляем скрипт
